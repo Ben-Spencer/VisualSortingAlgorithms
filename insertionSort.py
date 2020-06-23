@@ -1,5 +1,3 @@
-#Insertion Sort Code
-
 def insertionSort(arr):
 	for i in range(0,len(arr)):
 		key = arr[i]
